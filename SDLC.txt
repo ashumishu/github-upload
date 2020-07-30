@@ -1,0 +1,10 @@
+initiation
+system concept development
+planning
+requirement analysis
+design
+development
+integration and test
+implementation
+operation and maintenance
+disposition
